@@ -119,7 +119,7 @@ var AutoTyping = (function (e) {
 ]).default;
 
 
-const exampleText = ['MERN', 'Backend : Nodejs, Go, Spring boot','Frontend : Reactjs'];
+const exampleText = ['MERN', 'Nodejs', 'Go', 'Spring boot','Reactjs'];
 const exampleTyping = new AutoTyping('#text', exampleText, {
     typeSpeed: 100,
     deleteSpeed: 100,
